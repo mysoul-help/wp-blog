@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: razom\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-17 09:36+0000\n"
+"PO-Revision-Date: 2024-10-17 09:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Українська\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: razom"
+
+#: functions.php:103
+msgid "Add widgets here."
+msgstr ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:60
+msgid "Copyright"
+msgstr ""
+
+#. Description of the theme
+msgid "Description"
+msgstr ""
+
+#: functions.php:59
+msgid "Footer"
+msgstr ""
+
+#: functions.php:58
+msgid "Header"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "https://www.raccoon.solutions/"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: blocks/specialists/block.php:12
+msgid "Online"
+msgstr ""
+
+#. Author of the theme
+msgid "Raccoon"
+msgstr ""
+
+#. Name of the theme
+msgid "razom"
+msgstr ""
+
+#: functions.php:101
+msgid "Sidebar"
+msgstr ""
+
+#: content-single.php:25
+msgid "Інші методи"
+msgstr ""
+
+#: index.php:21
+msgid "Блог"
+msgstr ""
+
+#: 404.php:25
+msgid "Ви ввели неправильну адресу в браузері."
+msgstr ""
+
+#: search.php:15
+msgid "Ви шукали: "
+msgstr ""
+
+#: content-single.php:34
+msgid "Детальніше"
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"На жаль, запитуваної Вами сторінки не існує. \n"
+"                Помилка могла статися з кількох причин:"
+msgstr ""
+
+#: 404.php:29
+msgid "Повернутися на головну"
+msgstr ""
+
+#: content-single.php:17
+msgid "Подивитись усіх фахівців"
+msgstr ""
+
+#: 404.php:15
+msgid "Помилка 404: Сторінка не знайдена"
+msgstr ""
+
+#: content-single.php:21
+msgid "Пройти тест"
+msgstr ""
+
+#: footer.php:38 footer.php:160
+msgid ""
+"Психолог у твоєму смартфоні.\n"
+"                    Підберемо перевіреного фахівця під ваш запит. "
+"Консультуйтеся з психологом коли і де вам зручно"
+msgstr ""
+
+#: content-single.php:22
+msgid "Підібрати спеціаліста"
+msgstr ""
+
+#: 404.php:26
+msgid "Сторінка, на яку Ви хотіли зайти, застаріла і була видалена."
+msgstr ""
+
+#: footer.php:140 footer.php:271
+msgid "Усі права захищені. +380952818296"
+msgstr ""
+
+#: content-single.php:15
+msgid "Фахівці, що працюють з темою "
+msgstr ""
