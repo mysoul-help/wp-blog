@@ -29,7 +29,7 @@ define( 'DB_USER', 'razom_wp_user' );
 define( 'DB_PASSWORD', 'JSndjhwUW' );
 
 /** Database hostname */
-define( 'DB_HOST', 'mysoul.help:3306' );
+define( 'DB_HOST', '165.232.89.152:3306' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
