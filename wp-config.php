@@ -20,16 +20,16 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'em386214_razom' );
+define( 'DB_NAME', 'razom_blog_wp' );
 
 /** Database username */
-define( 'DB_USER', 'em386214_razom' );
+define( 'DB_USER', 'mysoul_help_usr' );
 
 /** Database password */
-define( 'DB_PASSWORD', '*h86B-ve3V' );
+define( 'DB_PASSWORD', '83NggiLhdl0WkzAt' );
 
 /** Database hostname */
-define( 'DB_HOST', 'em386214.mysql.tools' );
+define( 'DB_HOST', 'mysoul.help:3306' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
