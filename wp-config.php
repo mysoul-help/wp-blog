@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'razom_blog_wp' );
 
 /** Database username */
-define( 'DB_USER', 'mysoul_help_usr' );
+define( 'DB_USER', 'razom_wp_user' );
 
 /** Database password */
-define( 'DB_PASSWORD', '83NggiLhdl0WkzAt' );
+define( 'DB_PASSWORD', 'JSndjhwUW' );
 
 /** Database hostname */
-define( 'DB_HOST', 'mysoul.help:3306' );
+define( 'DB_HOST', 'mysoul.help' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
